@@ -1,0 +1,12 @@
+.place {
+  max-width: 984px;
+  padding-top: 80px;
+  display: grid;
+  gap: 48px 40px;
+
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, max-width);
+  grid-template-areas:
+  "title website"
+  "image description";
+}
