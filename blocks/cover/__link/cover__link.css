@@ -1,0 +1,8 @@
+.cover__link {
+  display: flex;
+  background-image: url(../../../images/cover-trains.jpg);
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+  color: #FFFFFF;
+}
