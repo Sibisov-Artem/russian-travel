@@ -5,4 +5,10 @@
   background-position: center;
   text-decoration: none;
   color: #FFFFFF;
+  /* transition: opacity .4s ease; */
+  position: relative;
 }
+
+/* .cover__link:hover {
+  opacity: .8;
+} */
