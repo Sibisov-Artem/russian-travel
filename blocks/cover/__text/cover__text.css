@@ -1,9 +1,0 @@
-.cover__text {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  min-height: 740px;
-  margin: 0 auto;
-  z-index: 1;
-}

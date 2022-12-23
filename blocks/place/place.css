@@ -2,7 +2,7 @@
   padding-top: 80px;
   display: grid;
   gap: 48px 40px;
-  grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);;
+  grid-template-columns: 46.7479674796748% 1fr;
   grid-template-areas:
   "title website"
   "image description";
