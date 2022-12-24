@@ -4,6 +4,27 @@
   gap: 48px 40px;
   grid-template-columns: 46.7479674796748% 1fr;
   grid-template-areas:
-  "title website"
-  "image description";
+    "title website"
+    "image description";
+}
+
+@media screen and (max-width: 1024px) {
+  .place {
+    gap: 48px 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    padding-top: 72px;
+    gap: 48px 28px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place {
+    padding-top: 50px;
+    gap: 48px 40px;
+    display: block;
+  }
 }

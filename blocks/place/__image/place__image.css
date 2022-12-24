@@ -2,3 +2,9 @@
   width: 100%;
 grid-area: image;
 }
+
+@media screen and (max-width: 320px) {
+  .place__image {
+margin: 32px 0;
+  }
+}

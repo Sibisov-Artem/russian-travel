@@ -1,8 +1,10 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
 
-@import url(../blocks/page/page.css);
-@import url(../blocks/page/__container/page__container.css);
+/* @import url(../blocks/root/root.css); *//*временно отключил на время работы потом вернуть обратно*/
+
+@import url(../blocks/page/page.css);  /*здесь убрать цвет фона*/
+/* @import url(../blocks/page/__container/page__container.css); */
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
