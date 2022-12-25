@@ -5,4 +5,4 @@
 
 **В процессе работы применялись следующие технологии:** *БЭМ, flexbox-верстка, Grid Layout, подключение стилей, шрифтов, медиа-запросы, ховер-анимации на ссылках.*
 
-**[Ссылка на макет в Figma](https://sibisov-artem.github.io/russian-travel/)**
+**[Результат выполненной проектной работы](https://sibisov-artem.github.io/russian-travel/)**

@@ -16,5 +16,6 @@
   .header__lang-links {
     font-size: 18px;
     line-height: 1.11;
+    margin-bottom: 8px;
   }
 }

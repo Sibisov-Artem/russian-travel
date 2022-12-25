@@ -11,12 +11,13 @@
 
 @media screen and (max-width: 768px) {
   .place__description {
-    width: 353px;
+    max-width: 353px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place__description {
     max-width: 288px;
+    padding: 0 16px;
   }
 }
