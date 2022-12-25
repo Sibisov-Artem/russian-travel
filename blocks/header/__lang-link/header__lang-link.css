@@ -2,9 +2,8 @@
   color: #FFFFFF;
   text-decoration: none;
   transition: opacity .4s ease;
-  }
+}
 
-  .header__lang-link:hover {
-    opacity: .8;
-  }
-
+.header__lang-link:hover {
+  opacity: .8;
+}
