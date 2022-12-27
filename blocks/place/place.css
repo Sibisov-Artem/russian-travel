@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 1024px) {
   .place {
-    grid-template-columns: 47.2797967% 1fr;
+    grid-template-columns: 47.40189967% 1fr;
     gap: 48px 32px;
   }
 }
@@ -25,7 +25,6 @@
 @media screen and (max-width: 480px) {
   .place {
     padding-top: 60px;
-    gap: 48px 40px;
     display: block;
   }
 }
@@ -33,7 +32,5 @@
 @media screen and (max-width: 320px) {
   .place {
     padding-top: 50px;
-    gap: 48px 40px;
-    display: block;
   }
 }
