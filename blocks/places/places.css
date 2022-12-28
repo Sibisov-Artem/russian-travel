@@ -16,15 +16,10 @@
   }
 }
 
-@media screen and (max-width: 1000px) {
-  .places {
-    padding: 16px 24px 0;
-  }
-}
-
 @media screen and (max-width: 768px) {
   .places {
     max-width: 720px;
+    padding: 16px 24px 0;
   }
 }
 
