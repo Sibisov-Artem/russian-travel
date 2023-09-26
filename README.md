@@ -8,7 +8,7 @@
 
 Проектная работы выполнялась с применением пройденных учебных материалов, связанных с версткой сайтов. Здесь упор произведен на пройденный материал по адаптивной и "резиновой" верстке.
 Работа выполнялась на основе макета взятого с сервиса **figma**. 
-[Ссылка на макет figma здесь](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+[Ссылка на макет figma здесь.](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 Соответствие макету проводилось с помощью **PerfectPixel**.
 
